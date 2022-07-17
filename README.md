@@ -54,12 +54,12 @@ Creating a portfolio that is accessible and legible is crucial when applying for
 ## Website Screenshot
 
 ### Full Website
-![Alttext](/full-website.png)
+![Alttext](/Images/full-website.png)
 
 ### Website at 998px
-![Alttext](/website-998px.png)
+![Alttext](/Images/website-998px.png)
 
 ### Website at 768px
-![Alttext](/website-768px.png)
+![Alttext](/Images/website-768px.png)
 
 ## Link to Site
