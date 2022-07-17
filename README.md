@@ -63,3 +63,4 @@ Creating a portfolio that is accessible and legible is crucial when applying for
 ![Alttext](/Images/website-768px.png)
 
 ## Link to Site
+[Link](https://lydiakim10.github.io/HW-2/)
